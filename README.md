@@ -8,5 +8,9 @@
 - You can find more information about the group and any upcoming events [here](https://www.meetup.com/shecodesokc/).
 
 # Is this group only for experienced users or can it be for anyone who hasn't done coding at all?
-- This group is for every level of coding.
+- This group is for every level of coding and anyone interested in coding technology.
+
+# Why are your programs for women and non-binary members only?
+- With only 27% of the coding roles in the United States currently held by women, and 75% of the fastest growing jobs requiring tech skills, we're passionate about bridging the gap for women by creating a community of supporters.
+
 
